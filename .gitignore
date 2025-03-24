@@ -18,3 +18,5 @@ openabc.egg-info/
 
 .ipynb_checkpoints/
 
+*.pdb
+*.fix
